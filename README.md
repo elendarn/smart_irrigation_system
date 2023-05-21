@@ -1,2 +1,2 @@
-# smart_irrigation_system
+# Smart Home Agriculture System
 This innovative Arduino-based smart agriculture project aims to revolutionize home crop cultivation by integrating various functionalities. It monitors soil moisture levels and provides water when necessary, while also collecting essential data such as temperature and humidity. Additionally, there are plans to incorporate a camera for further analysis. All the collected data is stored on the system's SD card, enabling users to analyze and automate the cultivation process using an AI system that optimizes the ideal growing conditions for home crops.
